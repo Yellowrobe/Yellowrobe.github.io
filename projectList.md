@@ -13,12 +13,12 @@ A Sophomore DigiPen game project created on a team of 9 with a custom 2D engine,
 ***
 
 ##[Astral Lune](/projects/astral-lune/):
-A Sophomore DigiPen game prototype created on a team of 5, Astral Lune is a 2-D platformer made in a custom 2D engine in which players utilize a special reflection mechanic to traverse the worlds' puzzles.
+A Sophomore DigiPen game prototype created on a team of 5, Astral Lune is a 2-D platformer made in a custom 2D engine in which players utilize a special reflection mechanic to traverse the worlds' puzzles.  
 
 ***
 
-##[Not a Real Game](/projects/testProject/):
-Mini Description of the project  
+##[There Can Only Be One... Ninja!](/projects/tcobo-ninja/):
+Test your Ninja skills in this top-down competitive multiplayer game as you dodge, toss, and smoke bomb your way to becoming the last Ninja! Game supports 1-4 players with empty player slots being filled by Ninja-tastic A.I. 'There Can Only Be One... Ninja' was made by Team PeaBody in the Digipen Zero Engine for the Ludum Dare Game Jam 28.  
 
 ***
 

@@ -5,7 +5,7 @@ category: projects
 tags: [Games, projects, AI, C++, C#]
 ---
 
-![Gameplay video coming soon. Game Still in development. Run cycle created by Michael Schabbing]({{site.baseurl}}/img/Update Run Cycle.gif)
+![Gameplay video coming soon. Game Still in development.]({{site.baseurl}}/img/Retrospect.png)
 
 
 ##AI Programmer  
