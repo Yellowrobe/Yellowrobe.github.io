@@ -11,7 +11,7 @@ tags: [Games, projects, Python, UI, Ludum Dare]
 ##UI Programmer  
 
 #####Team Peabody  
-**Ludum Dare Game Jame 28 Submission (72 hour project)**
+**Ludum Dare Game Jam 28 Submission (72 hour project)**
 
 
 Test your Ninja skills in this top-down competitive multiplayer game as you dodge, toss, and smoke bomb your way to becoming the last Ninja! Game supports 1-4 players with empty player slots being filled by Ninja-tastic A.I. 'There Can Only Be One... Ninja!' was made by Team PeaBody in the Digipen Zero Engine for the Ludum Dare Game Jam 28 in 72 hours, counting sleep.
@@ -20,9 +20,9 @@ Download the game from the submission page [here.](http://ludumdare.com/compo/lu
 
 ###What I Did
 
-* Designed/Implemented menus with data driven menu items for fast menu modification.
-* Wrote multiplayer controller input logic with player controller assignment in menu.
-* Created using Digipen’s Zero Engine with all code written in python.
+* Designed/Implemented menus with data driven menu items for fast menu modification
+* Wrote multiplayer controller input logic with player controller assignment in menu
+* Created using Digipen’s Zero Engine with all code written in python
 
 ###Tools and Languages Used
 

@@ -18,9 +18,9 @@ Genetic Drift is a top-down, twin-stick shooter where players engineer micro-org
 
 ###What I Did
 
-* Co-wrote a Goal-Oriented Action Planning(GOAP) implementation for emergent AI behavior. Jordan Ellis and I's research paper on the implementation can be found [here](https://github.com/Yellowrobe/GOAP-Implementation).
-* Extensive use of the engines timer and lerp systems to create level events that made the game feel a lot more hectic, increasing player engagement.
-* Created upgradeable player abilities that gave the player finer customization of their character, making each player's character feel unique to their playstyle.
+* Co-wrote a Goal-Oriented Action Planning(GOAP) implementation for emergent AI behavior. Jordan Ellis and I's research paper on the implementation can be found [here](https://github.com/Yellowrobe/GOAP-Implementation)
+* Extensive use of the engines timer and lerp systems to create level events that made the game feel a lot more hectic, increasing player engagement
+* Created upgradeable player abilities that gave the player finer customization of their character, making each player's character feel unique to their playstyle
 
 ###Tools and Languages Used
 
