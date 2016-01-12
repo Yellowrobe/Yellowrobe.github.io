@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Joshua Shlemmer. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a C++ Programmer
+- I am an AI and Gameplay Programmer
+- I own a pet bird named Momo, who just turned 8
+- Neither Momo or I can whistle well
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I Taught myself the C Programming Language in High School and I have been programming since. Currently I am a Junior at Digipen Institute of Technology in the Bachelor of Science in Computer Science degree program. I currently spend most of my time writing AI systems and behaviors in C++ for my current game(add link later). When not programming, I spend my time playing Dungeons and Dragons, playing guitar, and thinking about programming.
