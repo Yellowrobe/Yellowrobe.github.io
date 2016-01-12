@@ -72,6 +72,11 @@ highlighter: pygments
 permalink: /:year-:month-:day-:title
 paginate: 5
 
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
