@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Not a Real Game
+category: projects
 tags: [Games, projects, AI, C++, C#]
 ---
 
