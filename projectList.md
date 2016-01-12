@@ -25,6 +25,3 @@ Test your Ninja skills in this top-down competitive multiplayer game as you dodg
 ##[Knightfall](/projects/knightfall/):
 Knightfall is a magical, 2D, real-time, combat-oriented platforming race for treasure and victory. Traverse through randomly generated dungeons with endless re-playability! Encounter all the dungeon's traps and challenges as the mage Blinky.
 
-***
-
-![](/img/avatar-icon.png)
