@@ -1,12 +1,4 @@
 ---
-layout: post
-subtitle: null
-date: ""
-published: false
-title: "2016-1-12-Retrospect"
----
-
----
 layout: page
 title: Retrospect
 category: projects
