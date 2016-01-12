@@ -3,7 +3,8 @@ layout: page
 title: Projects
 ---
 
-##This will contain a list of projects, each a link to a post about the project
+##[Not a Real Game](_projects/testProject)
+####AI Programmer
 
 
-Hopefully it will decide that the file exists
+![short description with an image](/img/avatar-icon.png)
