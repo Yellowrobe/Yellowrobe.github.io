@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Not a Real Game
-tags: [Games, Projects, AI, C++, C#]
+tags: [Games, projects, AI, C++, C#]
 ---
 
 ##AI Programmer and Tech Director
