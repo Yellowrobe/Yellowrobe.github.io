@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 ---
+[![Retrospect]({{site.baseurl}}/img/Retrospect.png)](/projects/retrospect/)
 ##[Retrospect](/projects/retrospect/):
 A Junior DigiPen game project created on a team of 15 with a custom 3D engine, Retrospect is a split-screen first person shooter with a core mechanic that replays of your previous lives playback each round. Saving your previous lives from defeat grants you a useful AI teammate.  
 
@@ -24,4 +25,5 @@ Test your Ninja skills in this top-down competitive multiplayer game as you dodg
 
 ##[Knightfall](/projects/knightfall/):
 Knightfall is a magical, 2D, real-time, combat-oriented platforming race for treasure and victory. Traverse through randomly generated dungeons with endless re-playability! Encounter all the dungeon's traps and challenges as the mage Blinky.
+
 
