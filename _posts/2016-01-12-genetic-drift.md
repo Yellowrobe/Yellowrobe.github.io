@@ -20,8 +20,9 @@ Download the game from the Digipen Game Gallery [here.](http://games.digipen.edu
 
 ###What I Did
 
-* Co-wrote a Goal-Oriented Action Planning(GOAP) implementation for emergent AI behavior. Jordan Ellis and I's research paper on the implementation can be found [here](https://github.com/Yellowrobe/GOAP-Implementation)
-* Extensive use of the engines timer and lerp systems to create level events that made the game feel a lot more hectic, increasing player engagement
+* Worked on a Goal-Oriented Action Planning (GOAP) implementation for emergent AI behavior which led to flexible AI actors that could use new abilities with hardly any new code.
+ * Jordan Ellis and I's research paper on the implementation can be found [here](https://github.com/Yellowrobe/GOAP-Implementation)
+* Fixed engagement problems in matches by Creating a system for making level events inside of our custom
 * Created upgradeable player abilities that gave the player finer customization of their character, making each player's character feel unique to their playstyle
 
 ###Tools and Languages Used

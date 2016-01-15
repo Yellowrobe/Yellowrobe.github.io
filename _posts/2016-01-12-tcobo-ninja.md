@@ -22,7 +22,6 @@ Download the game from the submission page [here.](http://ludumdare.com/compo/lu
 
 * Designed/Implemented menus with data driven menu items for fast menu modification
 * Wrote multiplayer controller input logic with player controller assignment in menu
-* Created using Digipen’s Zero Engine with all code written in python
 
 ###Tools and Languages Used
 

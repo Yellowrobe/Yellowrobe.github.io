@@ -20,10 +20,11 @@ Retrospect is still in development as a Junior game project at DigiPen Institute
 
 ###What I Did
 
-* Implemented waypoint pathing system for easily defined walkable paths
+* Authored an easily extendable waypoint pathing system that allowed for fast addition of new features
 * Created waypoint connector tool for Team Bear King's custom editor, speeding up level creation
-* Designed steering behavior systems utilizing behavior groups, allowing for fine tuning of how AI moved and easy creation of new steering behaviors by combining simple building blocks
-* Tested AI systems in Unity C# then ported them to Team Bear King's custom C++ Engine for rapid prototyping of both AI systems and the game itself
+* Designed  a modular, data-driven steering behavior system for easy behavior generation
+* Tested AI systems in Unity C# then ported them to Team Bear King's custom C++ Engine for rapid prototyping of AI systems, which gave the designers a chance to build gameplay around the AI early
+* Worked with a designer to realize the behaviors in their mind map, allowing AI to match the game vision
 * Currently working on a new behavior tree system to allow for more complex AI reasoning (and because behavior trees are super cool!)
 
 ###Tools and Languages Used

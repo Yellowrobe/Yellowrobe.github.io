@@ -16,9 +16,9 @@ Astral Lune is a 2-D platformer made in a custom 2D engine in which players util
 
 ###What I Did
 
-* Implemented OpenGL graphics engine, and wrote all of the games shaders in GLSL
+* Completed an OpenGL graphics engine, and wrote all of the games shaders in GLSL
 * Designed core engine in C++, utilizing a component-based design to make engine easy to expand
-* Wrote a custom memory manager, allowing for more in-depth memory debugging
+* Wrote a custom memory manager, allowing for quick creation of contiguous components in memory
 * Setup a prebuild system using Premake, making it easier to use version control on the project
 
 ###Tools and Languages Used
