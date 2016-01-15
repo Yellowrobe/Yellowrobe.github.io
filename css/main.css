@@ -193,7 +193,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #A6281C;
 }
 
 footer .list-inline {
@@ -241,7 +241,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #A6281C;
 }
 
 .post-preview a:focus,
@@ -347,7 +347,7 @@ header.header-post .post-heading .post-subheading {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #A6281C;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
