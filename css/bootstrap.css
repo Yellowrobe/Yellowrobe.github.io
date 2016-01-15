@@ -3290,7 +3290,7 @@ fieldset[disabled] .btn-danger.active {
 }
 .btn-link {
   font-weight: normal;
-  color: #337ab7;
+  color: #A6281C; /*#337ab7*/
   border-radius: 0;
 }
 .btn-link,
@@ -3310,7 +3310,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #23527c;
+  color: #A6281C; /*#23527c*/
   text-decoration: underline;
   background-color: transparent;
 }
@@ -3318,7 +3318,7 @@ fieldset[disabled] .btn-link {
 fieldset[disabled] .btn-link:hover,
 .btn-link[disabled]:focus,
 fieldset[disabled] .btn-link:focus {
-  color: #777;
+  color: #A0241c; /*#777*/
   text-decoration: none;
 }
 .btn-lg,
