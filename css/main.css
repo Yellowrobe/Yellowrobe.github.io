@@ -15,11 +15,14 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #A6281C;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+}
+h2 {
+  color: #A6281C;
 }
 a {
   color: #A6281C;
