@@ -5,12 +5,12 @@ category: projects
 tags: [Games, projects, AI, C++, C#]
 ---
 
-![Gameplay video coming soon. Game Still in development.]({{site.baseurl}}/img/Retrospect.png)
+![Trailer on YouTube!]({{site.baseurl}}/img/Retrospect.png)
 
 
-##AI Programmer  
+## AI Programmer  
 
-#####Team Bear King  
+##### Team Bear King  
 **DigiPen Junior Project**
 
 
@@ -18,7 +18,7 @@ Retrospect is a split-screen first person shooter where as new rounds of the gam
 
 Retrospect is still in development as a Junior game project at DigiPen Institute of Technology
 
-###What I Did
+### What I Did
 
 * Authored an easily extendable waypoint pathing system that allowed for fast addition of new features
 * Created waypoint connector tool for Team Bear King's custom editor, speeding up level creation
@@ -27,7 +27,7 @@ Retrospect is still in development as a Junior game project at DigiPen Institute
 * Worked with a designer to realize the behaviors in their mind map, allowing AI to match the game vision
 * Currently working on a new behavior tree system to allow for more complex AI reasoning (and because behavior trees are super cool!)
 
-###Tools and Languages Used
+### Tools and Languages Used
 
 * C++
 * C#
