@@ -1,6 +1,19 @@
 ---
 layout: page
 title: Joshua Shlemmer
-subtitle: AI and Gameplay Programmer
+subtitle: Programmer
 ---
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags: 
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
 
