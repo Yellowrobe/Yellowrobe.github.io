@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-##[Retrospect](/projects/retrospect/):
+##[Retrospect]({% post_url 2016-01-12-retrospect %}):
 A Junior DigiPen game project created on a team of 15 with a custom 3D engine, Retrospect is a split-screen first person shooter with a core mechanic that replays of your previous lives playback each round. Saving your previous lives from defeat grants you a useful AI teammate. [Read More](/projects/retrospect/)
 
 ***
