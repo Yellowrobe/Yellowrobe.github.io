@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-## [Zero Engine]({% 2018-09-14-zero-engine %}):
+## [Zero Engine]({% post_url 2018-09-14-zero-engine %}):
 Zero Engine is an open source game engine created in DigiPen R&D by the Zero Engine Team. It is a component-based game engine that focuses on being as lightweight, easy to use, and customizable as possible to allow for rapid iteration.  [Read More]({% post_url 2018-09-14-zero-engine %})
 
 ## [Rafflesia]({% 2016-01-12-rafflesia %}):
