@@ -2,9 +2,11 @@
 layout: page
 title: Projects
 ---
+## [Zero Engine]({% 2018-09-14-zero-engine %}):
+Zero Engine is an open source game engine created in DigiPen R&D by the Zero Engine Team. It is a component-based game engine that focuses on being as lightweight, easy to use, and customizable as possible to allow for rapid iteration.  [Read More]({% post_url 2018-09-14-zero-engine %})
 
-## [Retrospect]({% post_url 2016-01-12-retrospect %}):
-A Junior DigiPen game project created on a team of 15 with a custom 3D engine, Retrospect is a split-screen first person shooter with a core mechanic that replays of your previous lives playback each round. Saving your previous lives from defeat grants you a useful AI teammate. [Read More]({% post_url 2016-01-12-retrospect %})
+## [Rafflesia]({% 2016-01-12-rafflesia %}):
+A Junior DigiPen game project created on a team of 15 with a custom 3D engine, Rafflesia is a sci-fi first-person shooter where players assume the role of two exterminators that take on the biggest problems. [Read More]({% post_url 2016-01-12-retrospect %})
 
 ***
 
