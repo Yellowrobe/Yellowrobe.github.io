@@ -3,19 +3,13 @@ layout: page
 title: About me
 ---
 
-My name is Joshua Shlemmer. I have the following qualities:
 
-- I am a C++ Programmer
-- I love working on games and developer tools
-- I own a pet bird named Momo, who just turned 8
-- Neither Momo or I can whistle well
-
-What else do you need?
-
-### My history
-
-I taught myself the C Programming Language in High School and I have been programming since. Currently I am a Junior at Digipen Institute of Technology in the Bachelor of Science in Computer Science degree program. I am currently working in DigiPen's Research and Development department on documentation tools and maintaining our Buildbot server. When not programming, I spend my time playing Dungeons and Dragons, playing guitar, and thinking about programming.
+ I graduated from Digipen Institute of Technology in the Bachelor of Science in Computer Science degree program in 2017. Starting my junior year, I interned for the Research and Development department at DigiPen to work on the Zero Engine. That then turned into a full-time position once I graduated. While there I maintained and improved the Buildbot build server, rewrote the documentation tool that created the code reference, and migrated the entire project to a CMake project. While initially only really interested in core engine development, during my time on Zero time I found I also had an interest in build (and prebuild) systems.
 
 ### Resume
 
 My resume can be found [here.](/files/resume.pdf)
+
+### Hobbies
+
+When not programming, I play D&D, compete in local Tekken tournaments, and build Gunpla models. 
