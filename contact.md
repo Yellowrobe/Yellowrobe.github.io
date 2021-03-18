@@ -4,8 +4,7 @@ title: Contact Me
 ---
 
 ### Info  
-* Email: joshua.shlemmer@digipen.edu
-* Phone: (360)471-5399
+* Email: joshuashlem@gmail.com
 
 
 ### Resume  
